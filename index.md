@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+CS 290 Blog
 
-You can use the [editor on GitHub](https://github.com/tanmayb47/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Blog For Assignment-1
 
-### Markdown
+I am incredibly excited to learn Web Development, as I find it very fascinating. This is my first time learning Web Development, I've never had any prior Web Development experience before. I hope to gain a thorough understanding of the fundamentals of web development in order to learn more advanced topics in the future. My ultimate goal is to become a cloud application developer!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanmayb47/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I will keep updating this blog as this course progresses, as this would serve as a nice memory in the future to look back at! I will later transfer all the contents to my own personal website, with all my details there. Looking forward to a great learning experience in this class.
